@@ -1,0 +1,25 @@
+{
+    "name": "dimasahmad/dapodik-sdk",
+    "type": "library",
+    "description": "Unofficial Dapodik SDK",
+    "homepage": "https://github.com/dimasahmad/dapodik-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimas Ahmad Eka Putra",
+            "email": "dimasahmad@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.4",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DimasAhmad\\Dapodik\\SDK\\": "src/"
+        }
+    }
+}
