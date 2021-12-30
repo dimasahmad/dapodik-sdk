@@ -1,5 +1,8 @@
 # Dapodik SDK
 
+**⚰️ DEPRECATED**
+Project ini telah dihentikan dan tidak akan mendapatkan support dan update apapun di kemudian hari.
+
 ***Unofficial*** Dapodik SDK untuk mengakses API yang tersedia dalam aplikasi Dapodik.
 
 Developer dapat mengakses secara langsung API Dapodik menggunakan client HTTP dan JSON jika mereka menginginkannya. Jika Anda ingin langsung mengakses data API Dapodik, SDK ini memberikan Anda beberapa kemudahan:
